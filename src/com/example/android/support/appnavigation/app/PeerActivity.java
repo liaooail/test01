@@ -33,6 +33,7 @@ public class PeerActivity extends Activity {
             "com.example.android.appnavigation.EXTRA_PEER_COUNT";
 
     private int mPeerCount;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

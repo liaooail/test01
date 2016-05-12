@@ -35,6 +35,7 @@ public class PeerActivity extends Activity {
     private int mPeerCount;
     
     // print
+    // print 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
